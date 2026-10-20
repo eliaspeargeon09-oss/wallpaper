@@ -1,0 +1,6 @@
+{
+  "name": "Katta Elia Speargeon — Personal Workspace",
+  "description": "Futuristic cyberpunk desktop productivity dashboard for Katta Elia Speargeon (GRIET CSE-G) with real-time clock, tasks, notes, projects, and ambient visual styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
